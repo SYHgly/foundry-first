@@ -1,0 +1,7 @@
+---
+applications:
+  - name: foundry-first
+     memory: 768M
+     instances: 1
+     random-route: true
+     path:target\foundry-first-0.0.1-SNAPSHOT.jar
